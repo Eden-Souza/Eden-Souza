@@ -16,5 +16,20 @@ Com previsão de formatura em junho de 2025 pela Universidade Federal de Uberlâ
 ### Cerificado Profissional de Análise de Dados do Google
 Completei um curso de desenvolvimento e projeto de conclusão que me certificou como Analista de Dados Júnior. Durante esse período, aprendi os fundamentos sobre dados e como realizar análises com eficiência. O processo inclui etapas de perguntar, preparar, processar, analisar, compartilhar e agir. Seguindo esses passos, é possível tomar decisões baseadas em dados de forma precisa, evitando vieses e inconsistências.
 
-### Linguagens e Bibliotecas
+### Linguagens, Bibliotecas e Ferramentas
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![EXCEL](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=EXCEL&logoColor=black)
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eden-souza-dados) 
+
+
+# 📊 Skills Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eden-Souza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
