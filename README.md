@@ -4,7 +4,7 @@
 
 Meu objetivo é trilhar o caminho para me tornar um Cientista de Dados, utilizando minha paixão pela análise de dados para impulsionar a tomada de decisões pelo método *Data Driven Decision*. Estou focado em me desenvolver para me inserir na área de dados/tecnologia, dedicando esforço ao aprendizado de *consultas em banco de dados*, *produção de dashboards* e *storytelling*. Meu foco é sempre encontrar formas de melhorar ou otimizar processos e visualizações, contribuindo para a eficiência e eficácia das decisões empresariais.
 
-### <p align="center">  Aperte [💾]([(https://github.com/Eden-Souza/Projetos/projects?query=is%3Aopen))  Para visualizar meus últimos projetos 
+### <p align="center">  Aperte [💾](https://github.com/Eden-Souza/Eden-Souza/projects?query=is%3Aopen)  Para visualizar meus últimos projetos 
 </p>
 <br/>
 
