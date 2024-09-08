@@ -13,6 +13,10 @@ Com previsão de formatura em junho de 2025 pela Universidade Federal de Uberlâ
 ### Cerificado Profissional de Análise de Dados do Google
 Completei um curso de desenvolvimento e projeto de conclusão que me certificou como Analista de Dados Júnior. Durante esse período, aprendi os fundamentos sobre dados e como realizar análises com eficiência. O processo inclui etapas de perguntar, preparar, processar, analisar, compartilhar e agir. Seguindo esses passos, é possível tomar decisões baseadas em dados de forma precisa, evitando vieses e inconsistências.
 
+### <p align="center"> Aperte [AQUI](https://github.com/Eden-Souza/Projects) Para Ver Meu Portifolio de Análise de Dados
+</p>
+<br/>
+
 ### Linguagens, Bibliotecas e Ferramentas
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
