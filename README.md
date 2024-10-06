@@ -1,6 +1,6 @@
 
 ![Design sem nome(1)](https://github.com/user-attachments/assets/213567f6-4ebe-488c-98f6-06f26b57a4ba)
-# <p align="center">          Data Analytics
+# <p align="center">          Data Scientist
 
 Meu objetivo é trilhar o caminho para me tornar um Cientista de Dados, utilizando minha paixão pela análise de dados para impulsionar a tomada de decisões pelo método *Data Driven Decision*. Estou focado em me desenvolver para me inserir na área de dados/tecnologia, dedicando esforço ao aprendizado de *consultas em banco de dados*, *produção de dashboards* e *storytelling*. Meu foco é sempre encontrar formas de melhorar ou otimizar processos e visualizações, contribuindo para a eficiência e eficácia das decisões empresariais.
 
