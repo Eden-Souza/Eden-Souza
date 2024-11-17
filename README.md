@@ -8,7 +8,7 @@ Meu objetivo é trilhar o caminho para me tornar um Cientista de Dados, utilizan
 ## 📂 Formações e estudos
 
 ### Engenharia de Produção
-Com previsão de formatura em junho de 2025 pela Universidade Federal de Uberlândia, estou focado na otimização e melhoria de processos e gestão da informação.(Falar sobre o artigo feito). Atualmente, estou desenvolvendo meu TCC, que investiga como a Ciência de Dados pode auxiliar na tomada de decisões. Minha pesquisa utiliza conceitos de *Pesquisa Operacional*, *Consulta em Banco de Dados* e *técnicas de limpeza, transformação e visualização de dados* via planilha para criar *dashboards* eficientes.
+Com previsão de formatura em junho de 2025 pela Universidade Federal de Uberlândia, estou focado na otimização e melhoria de processos e gestão da informação.Desenvolvi um artigo onde foi analisado a performance de cursos universitários com dados do MEC onde foi analisado um banco de dados relacional com quase 3 milhões de registro utilizanado sql server. Atualmente, estou desenvolvendo meu TCC, que investiga como a Ciência de Dados pode auxiliar na tomada de decisões. Minha pesquisa utiliza conceitos de *Pesquisa Operacional*, *Consulta em Banco de Dados* e *técnicas de limpeza, transformação e visualização de dados* via planilha para criar *dashboards* eficientes.
 
 ### Cerificado Profissional de Análise de Dados do Google
 Completei um curso de desenvolvimento e projeto de conclusão que me certificou como Analista de Dados Júnior. Durante esse período, aprendi os fundamentos sobre dados e como realizar análises com eficiência. O processo inclui etapas de perguntar, preparar, processar, analisar, compartilhar e agir. Seguindo esses passos, é possível tomar decisões baseadas em dados de forma precisa, evitando vieses e inconsistências.
@@ -29,5 +29,6 @@ Completei um curso de desenvolvimento e projeto de conclusão que me certificou 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eden-souza-dados) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eden-souza-dados)
+[![GMAIL](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmailn&logoColor=white)](edensouza02@gmail.com) 
 
