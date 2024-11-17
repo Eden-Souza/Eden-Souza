@@ -17,18 +17,50 @@ Completei um curso de desenvolvimento e projeto de conclusão que me certificou 
 </p>
 <br/>
 
-### Linguagens, Bibliotecas e Ferramentas
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![EXCEL](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=EXCEL&logoColor=black)
+## 📚 Habilidades Técnicas
+
+### 📚 Ferramentas
+
+<table>
+    <td style="text-align:center; padding: 5px; background-color: #3776AB; border-radius: 2px; color: white;">
+      <img src="https://icongr.am/devicon/python-original.svg?size80&color=currentColor" /><br><strong>Python</strong>
+    </td>
+    <td style="text-align:center; padding: 10px; background-color: #CC2927; border-radius: 5px; color: white;">
+      <img src="https://img.icons8.com/?size=40&id=UECmBSgBOvPT&format=png&color=000000" /><br><strong>Excel</strong>
+    </td>
+    <td style="text-align:center; padding: 10px; background-color: #F2C811; border-radius: 5px; color: black;">
+      <img src="https://img.icons8.com/?size=40&id=qYfwpsRXEcpc&format=png&color=000000" /><br><strong>Power BI</strong>
+          <td style="text-align:center; padding: 10px; background-color: #F2C811; border-radius: 5px; color: black;">
+      <img src="https://img.icons8.com/?size=40&id=laYYF3dV0Iew&format=png&color=000000" /><br><strong>SQL Server</strong>
+    </td>
+  
+  </table>
+
+### 📚 Bibliotecas
+
+<table>
+    <td style="text-align:center; padding: 10px; background-color: #013243; border-radius: 5px; color: white;">
+      <img src="https://img.icons8.com/?size=40&id=xSkewUSqtErH&format=png&color=000000" /><br><strong>NumPy</strong>
+    </td>
+    <td style="text-align:center; padding: 10px; background-color: #150458; border-radius: 5px; color: white;">
+      <img src="https://img.icons8.com/?size=40&id=aR9CXyMagKIS&format=png&color=000000" /><br><strong>Pandas</strong>
+    </td>
+    <td style="text-align:center; padding: 10px; background-color: #005C99; border-radius: 5px; color: white;">
+      <img src="https://matplotlib.org/stable/_static/logo_dark.svg" width="130" 
+    </td>
+    <td style="text-align:center; padding: 10px; background-color: #006400; border-radius: 5px; color: white;">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" /><br><strong>Seaborn</strong>
+</table>
+
+## 📧 Contato
+
+<a href="mailto:edensouza02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" width="75" />
+</a>
+
+<a href="https://linkedin.com/in/eden-souza-dados">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="90" />
+</a>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eden-souza-dados)
-[![GMAIL](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmailn&logoColor=white)](edensouza02@gmail.com) 
 
