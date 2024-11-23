@@ -40,10 +40,10 @@ Completei um curso de desenvolvimento e projeto de conclusão que me certificou 
 
 <table>
     <td style="text-align:center; padding: 10px; background-color: #013243; border-radius: 5px; color: white;">
-      <img src="https://img.icons8.com/?size=40&id=xSkewUSqtErH&format=png&color=000000" /><br><strong>NumPy</strong>
+      <img src="https://img.icons8.com/?size=40&id=xSkewUSqtErH&format=png&color=000000" /><br><strong>Pandas</strong>
     </td>
     <td style="text-align:center; padding: 10px; background-color: #150458; border-radius: 5px; color: white;">
-      <img src="https://img.icons8.com/?size=40&id=aR9CXyMagKIS&format=png&color=000000" /><br><strong>Pandas</strong>
+      <img src="https://img.icons8.com/?size=40&id=aR9CXyMagKIS&format=png&color=000000" /><br><strong>Numpy</strong>
     </td>
     <td style="text-align:center; padding: 10px; background-color: #005C99; border-radius: 5px; color: white;">
       <img src="https://matplotlib.org/stable/_static/logo_dark.svg" width="130" 
